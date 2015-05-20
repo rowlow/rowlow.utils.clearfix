@@ -3,5 +3,5 @@
 @import 'functions';
 
 .#{$rowlow-clearfix-namespace}clearfix{
-	@include clearfix;
+	@include rowlow-clearfix;
 }

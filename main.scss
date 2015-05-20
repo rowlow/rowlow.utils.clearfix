@@ -2,6 +2,6 @@
 @import 'mixins';
 @import 'functions';
 
-.clearfix{
-	@include clearfix;
+.#{$rowlow-clearfix-namespace}clearfix{
+	@include rowlow-clearfix;
 }

@@ -1,9 +1,9 @@
 {
   "name": "rowlow.utils.clearfix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://rowlow.github.io",
   "authors": [
-    "Roland Lösslein <info@weaintplastic.com>"
+    "Roland Lösslein <info@weaintplastic.com>"
   ],
   "description": "A clearfix util for ROW LOW framework",
   "main": "main.scss",
